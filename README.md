@@ -88,7 +88,7 @@ This project is a Casino API that provides functionality for players to:
 ### Running the Project:
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/[your-username]/casino-api.git
+    git clone https://github.com/devwalia/casino-api.git
     cd casino-api
     ```
 
