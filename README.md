@@ -14,7 +14,9 @@ Should you still be able to provide the original Spring Boot project, I am more 
 
 ---
 
-## Project Overview
+## Project Overview:
+<img width="291" alt="Screenshot 2024-10-22 at 9 45 03 PM" src="https://github.com/user-attachments/assets/8fed4293-f00e-4682-93a7-e82fd23b84ed">
+
 This project is a Casino API that provides functionality for players to:
 - Register
 - Place a bet
