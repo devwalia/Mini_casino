@@ -1,9 +1,5 @@
 # Mini_casino
 
-Here is an updated version that you can include in your README file on GitHub along with instructions on how to run the project and include your disclaimer:
-
----
-
 # Casino API Project
 
 ## Disclaimer
